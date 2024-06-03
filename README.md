@@ -30,7 +30,11 @@ Ikuti langkah-langkah berikut untuk menginstal Visitor Counter:
    ```sh
    git clone https://github.com/X-Projetion/php-visitor-counter.git
    cd php-visitor-counter
-
+2. **Clone repositori**:
+   ```sh
+   Pastikan file counter.txt dapat ditulis oleh server web:
+   chmod 666 counter.txt
+   
 
 ## Pengujian
 
