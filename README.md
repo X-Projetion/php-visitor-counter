@@ -11,11 +11,10 @@ Visitor Counter adalah skrip PHP sederhana yang menghitung jumlah kunjungan ke h
 - [Fitur](#Fitur)
 - [Pengujian](#Pengujian)
 - [Contributing](#Contributing)
-
 - [Lisensi](#Lisensi)
 - [Kontak](#Lisensi)
 
-- 
+
 ## Fitur
 
 - Menghitung jumlah kunjungan ke halaman web.
